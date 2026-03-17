@@ -14,8 +14,13 @@ Ce projet utilise l'intelligence artificielle pour la détection de tumeurs cér
 - `dashboard.ipynb` : Notebook de visualisation des données avec échantillons d'images
 - `data_augmentation.ipynb` : Notebook démontrant l'augmentation de données (rotation, zoom, luminosité)
 - `dataset_statistics.ipynb` : Analyse statistique complète du dataset
+- `interactive_dashboard.ipynb` : Dashboard interactif avec graphiques Plotly
 - `generate_stats.py` : Script pour générer les statistiques
+- `create_dashboard.py` : Script pour créer le dashboard HTML
+- `create_pdf.py` : Script pour générer le PDF des images
 - `dataset_statistics.csv` : CSV avec toutes les statistiques (comptes, proportions, dimensions)
+- `interactive_dashboard.html` : Dashboard HTML interactif
+- `balanced_dataset_images.pdf` : PDF avec toutes les 974 images du dataset équilibré
 - `balance_dataset.py` : Script pour équilibrer le dataset
 - `.gitignore` : Exclut les dossiers de données volumineux
 

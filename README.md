@@ -13,6 +13,9 @@ Ce projet utilise l'intelligence artificielle pour la détection de tumeurs cér
 ## Fichiers
 - `dashboard.ipynb` : Notebook de visualisation des données avec échantillons d'images
 - `data_augmentation.ipynb` : Notebook démontrant l'augmentation de données (rotation, zoom, luminosité)
+- `dataset_statistics.ipynb` : Analyse statistique complète du dataset
+- `generate_stats.py` : Script pour générer les statistiques
+- `dataset_statistics.csv` : CSV avec toutes les statistiques (comptes, proportions, dimensions)
 - `balance_dataset.py` : Script pour équilibrer le dataset
 - `.gitignore` : Exclut les dossiers de données volumineux
 

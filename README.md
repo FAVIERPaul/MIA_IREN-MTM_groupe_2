@@ -8,7 +8,7 @@ Ce projet utilise l'intelligence artificielle pour la détection de tumeurs cér
 - **Datasets fusionnés** :
   - Brain MRI Images for Brain Tumor Detection
   - Brain Tumor Classification (MRI)
-- **Catégories** : tumor (6,210 images), healthy (487 images)
+- **Dataset équilibré** : 487 images tumor / 487 images healthy (balance 50/50)
 
 ## Fichiers
 - `dashboard.ipynb` : Notebook de visualisation des données avec échantillons d'images

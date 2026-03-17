@@ -1,0 +1,975 @@
+patient_id,age,gender,category,tumor_grade,tumor_location,status,treatment,survival_months,comorbidities,imaging_date
+PT00001,52,F,healthy,,,Healthy,,,Hypertension,2023-07-26
+PT00002,42,M,healthy,,,Healthy,,,None,2023-08-21
+PT00003,68,M,healthy,,,Healthy,,,Multiple,2023-12-06
+PT00004,56,M,healthy,,,Healthy,,,Multiple,2023-01-12
+PT00005,45,M,healthy,,,Healthy,,,None,2023-12-16
+PT00006,38,M,healthy,,,Healthy,,,None,2023-03-12
+PT00007,83,M,healthy,,,Healthy,,,Hypertension,2023-05-09
+PT00008,50,M,healthy,,,Healthy,,,Multiple,2023-12-14
+PT00009,35,M,healthy,,,Healthy,,,Hypertension,2023-12-07
+PT00010,59,F,healthy,,,Healthy,,,Diabetes,2023-03-14
+PT00011,27,F,healthy,,,Healthy,,,None,2023-06-10
+PT00012,38,F,healthy,,,Healthy,,,None,2023-02-26
+PT00013,18,F,healthy,,,Healthy,,,Hypertension,2023-08-14
+PT00014,29,M,healthy,,,Healthy,,,None,2023-08-21
+PT00015,22,F,healthy,,,Healthy,,,None,2023-12-28
+PT00016,34,F,healthy,,,Healthy,,,None,2023-01-25
+PT00017,53,F,healthy,,,Healthy,,,Diabetes,2023-05-10
+PT00018,58,M,healthy,,,Healthy,,,None,2023-07-09
+PT00019,22,M,healthy,,,Healthy,,,None,2023-08-05
+PT00020,61,F,healthy,,,Healthy,,,Hypertension,2023-11-03
+PT00021,29,F,healthy,,,Healthy,,,Diabetes,2023-10-23
+PT00022,43,F,healthy,,,Healthy,,,None,2023-09-15
+PT00023,39,M,healthy,,,Healthy,,,None,2023-07-17
+PT00024,44,M,healthy,,,Healthy,,,Hypertension,2023-05-23
+PT00025,58,M,healthy,,,Healthy,,,Multiple,2023-07-27
+PT00026,79,F,healthy,,,Healthy,,,Diabetes,2023-10-13
+PT00027,35,M,healthy,,,Healthy,,,None,2023-04-11
+PT00028,40,M,healthy,,,Healthy,,,None,2023-09-07
+PT00029,41,F,healthy,,,Healthy,,,None,2023-09-03
+PT00030,51,M,healthy,,,Healthy,,,Hypertension,2023-09-05
+PT00031,28,M,healthy,,,Healthy,,,None,2023-08-09
+PT00032,58,M,healthy,,,Healthy,,,None,2023-10-20
+PT00033,57,F,healthy,,,Healthy,,,None,2023-08-17
+PT00034,29,M,healthy,,,Healthy,,,Multiple,2023-12-22
+PT00035,43,F,healthy,,,Healthy,,,Hypertension,2023-05-12
+PT00036,41,M,healthy,,,Healthy,,,Hypertension,2023-07-04
+PT00037,41,M,healthy,,,Healthy,,,Diabetes,2023-05-20
+PT00038,34,F,healthy,,,Healthy,,,None,2023-01-09
+PT00039,30,M,healthy,,,Healthy,,,Hypertension,2023-11-04
+PT00040,36,M,healthy,,,Healthy,,,Hypertension,2023-03-20
+PT00041,29,F,healthy,,,Healthy,,,None,2023-02-08
+PT00042,52,M,healthy,,,Healthy,,,None,2023-09-18
+PT00043,57,F,healthy,,,Healthy,,,Hypertension,2023-12-17
+PT00044,26,M,healthy,,,Healthy,,,None,2023-12-05
+PT00045,48,M,healthy,,,Healthy,,,None,2023-03-20
+PT00046,56,F,healthy,,,Healthy,,,Diabetes,2023-08-20
+PT00047,48,M,healthy,,,Healthy,,,None,2023-03-25
+PT00048,57,M,healthy,,,Healthy,,,None,2023-02-02
+PT00049,60,M,healthy,,,Healthy,,,Hypertension,2023-01-14
+PT00050,64,M,healthy,,,Healthy,,,Hypertension,2023-08-07
+PT00051,30,F,healthy,,,Healthy,,,Hypertension,2023-06-23
+PT00052,61,M,healthy,,,Healthy,,,Hypertension,2023-06-13
+PT00053,58,M,healthy,,,Healthy,,,None,2023-01-28
+PT00054,44,F,healthy,,,Healthy,,,Diabetes,2023-12-16
+PT00055,28,F,healthy,,,Healthy,,,Multiple,2023-05-06
+PT00056,52,M,healthy,,,Healthy,,,None,2023-08-17
+PT00057,76,F,healthy,,,Healthy,,,None,2023-05-23
+PT00058,68,M,healthy,,,Healthy,,,None,2023-02-25
+PT00059,61,F,healthy,,,Healthy,,,None,2023-02-15
+PT00060,39,F,healthy,,,Healthy,,,None,2023-11-10
+PT00061,50,F,healthy,,,Healthy,,,Hypertension,2023-07-10
+PT00062,53,F,healthy,,,Healthy,,,Diabetes,2023-09-24
+PT00063,45,M,healthy,,,Healthy,,,Diabetes,2023-01-08
+PT00064,58,F,healthy,,,Healthy,,,Diabetes,2023-12-19
+PT00065,27,M,healthy,,,Healthy,,,Hypertension,2023-06-19
+PT00066,22,M,healthy,,,Healthy,,,Hypertension,2023-06-26
+PT00067,38,M,healthy,,,Healthy,,,None,2023-11-28
+PT00068,53,M,healthy,,,Healthy,,,Diabetes,2023-12-12
+PT00069,44,F,healthy,,,Healthy,,,None,2023-03-23
+PT00070,52,M,healthy,,,Healthy,,,None,2023-02-28
+PT00071,25,F,healthy,,,Healthy,,,None,2023-10-21
+PT00072,18,M,healthy,,,Healthy,,,None,2023-12-21
+PT00073,21,M,healthy,,,Healthy,,,None,2023-05-01
+PT00074,39,F,healthy,,,Healthy,,,Hypertension,2023-05-22
+PT00075,27,M,healthy,,,Healthy,,,None,2023-12-05
+PT00076,48,M,healthy,,,Healthy,,,None,2023-04-05
+PT00077,31,M,healthy,,,Healthy,,,None,2023-01-05
+PT00078,44,M,healthy,,,Healthy,,,Hypertension,2023-05-04
+PT00079,43,F,healthy,,,Healthy,,,Hypertension,2023-01-24
+PT00080,38,F,healthy,,,Healthy,,,None,2023-08-16
+PT00081,41,F,healthy,,,Healthy,,,Multiple,2023-08-12
+PT00082,45,M,healthy,,,Healthy,,,Hypertension,2023-01-19
+PT00083,51,F,healthy,,,Healthy,,,Hypertension,2023-11-12
+PT00084,62,M,healthy,,,Healthy,,,None,2023-02-19
+PT00085,21,F,healthy,,,Healthy,,,None,2023-10-26
+PT00086,61,M,healthy,,,Healthy,,,None,2023-07-04
+PT00087,29,F,healthy,,,Healthy,,,None,2023-09-21
+PT00088,64,F,healthy,,,Healthy,,,Hypertension,2023-05-09
+PT00089,73,F,healthy,,,Healthy,,,None,2023-01-07
+PT00090,70,F,healthy,,,Healthy,,,Diabetes,2023-05-12
+PT00091,68,F,healthy,,,Healthy,,,None,2023-01-17
+PT00092,38,M,healthy,,,Healthy,,,Diabetes,2023-06-13
+PT00093,41,M,healthy,,,Healthy,,,Multiple,2023-12-09
+PT00094,57,M,healthy,,,Healthy,,,Multiple,2023-04-19
+PT00095,32,M,healthy,,,Healthy,,,Hypertension,2023-04-27
+PT00096,44,M,healthy,,,Healthy,,,Multiple,2023-09-07
+PT00097,44,M,healthy,,,Healthy,,,Hypertension,2023-05-03
+PT00098,31,F,healthy,,,Healthy,,,None,2023-02-15
+PT00099,51,F,healthy,,,Healthy,,,None,2023-07-14
+PT00100,36,F,healthy,,,Healthy,,,None,2023-02-27
+PT00101,37,M,healthy,,,Healthy,,,Multiple,2023-01-22
+PT00102,48,F,healthy,,,Healthy,,,Multiple,2023-09-13
+PT00103,35,M,healthy,,,Healthy,,,Diabetes,2023-06-07
+PT00104,65,M,healthy,,,Healthy,,,Multiple,2023-07-03
+PT00105,36,F,healthy,,,Healthy,,,Hypertension,2023-08-09
+PT00106,22,F,healthy,,,Healthy,,,Hypertension,2023-12-25
+PT00107,23,F,healthy,,,Healthy,,,None,2023-06-26
+PT00108,32,M,healthy,,,Healthy,,,Multiple,2023-05-16
+PT00109,48,M,healthy,,,Healthy,,,Hypertension,2023-04-25
+PT00110,45,F,healthy,,,Healthy,,,Hypertension,2023-01-21
+PT00111,31,F,healthy,,,Healthy,,,Multiple,2023-10-16
+PT00112,67,F,healthy,,,Healthy,,,None,2023-12-21
+PT00113,32,M,healthy,,,Healthy,,,None,2023-02-28
+PT00114,36,M,healthy,,,Healthy,,,Multiple,2023-11-22
+PT00115,70,M,healthy,,,Healthy,,,None,2023-03-06
+PT00116,22,F,healthy,,,Healthy,,,Hypertension,2023-09-02
+PT00117,26,M,healthy,,,Healthy,,,Diabetes,2023-02-15
+PT00118,47,M,healthy,,,Healthy,,,Hypertension,2023-09-22
+PT00119,48,M,healthy,,,Healthy,,,None,2023-01-21
+PT00120,63,M,healthy,,,Healthy,,,Diabetes,2023-01-05
+PT00121,67,F,healthy,,,Healthy,,,Diabetes,2023-01-21
+PT00122,49,M,healthy,,,Healthy,,,None,2023-03-13
+PT00123,24,F,healthy,,,Healthy,,,Hypertension,2023-12-08
+PT00124,53,M,healthy,,,Healthy,,,None,2023-06-22
+PT00125,37,F,healthy,,,Healthy,,,Multiple,2023-11-25
+PT00126,58,F,healthy,,,Healthy,,,None,2023-07-15
+PT00127,53,F,healthy,,,Healthy,,,Multiple,2023-12-02
+PT00128,63,M,healthy,,,Healthy,,,Hypertension,2023-11-19
+PT00129,40,M,healthy,,,Healthy,,,Diabetes,2023-12-23
+PT00130,55,F,healthy,,,Healthy,,,Hypertension,2023-04-10
+PT00131,44,M,healthy,,,Healthy,,,None,2023-02-06
+PT00132,56,M,healthy,,,Healthy,,,None,2023-11-11
+PT00133,43,M,healthy,,,Healthy,,,None,2023-11-22
+PT00134,43,F,healthy,,,Healthy,,,None,2023-04-24
+PT00135,59,M,healthy,,,Healthy,,,Multiple,2023-10-19
+PT00136,41,M,healthy,,,Healthy,,,None,2023-12-10
+PT00137,43,M,healthy,,,Healthy,,,None,2023-10-13
+PT00138,29,M,healthy,,,Healthy,,,None,2023-09-22
+PT00139,57,F,healthy,,,Healthy,,,None,2023-08-22
+PT00140,35,M,healthy,,,Healthy,,,Diabetes,2023-08-02
+PT00141,57,F,healthy,,,Healthy,,,Hypertension,2023-12-13
+PT00142,30,F,healthy,,,Healthy,,,None,2023-03-15
+PT00143,49,M,healthy,,,Healthy,,,Hypertension,2023-01-07
+PT00144,37,M,healthy,,,Healthy,,,Hypertension,2023-09-17
+PT00145,39,M,healthy,,,Healthy,,,Hypertension,2023-02-15
+PT00146,18,F,healthy,,,Healthy,,,Hypertension,2023-08-08
+PT00147,29,M,healthy,,,Healthy,,,None,2023-10-02
+PT00148,42,M,healthy,,,Healthy,,,None,2023-06-05
+PT00149,35,M,healthy,,,Healthy,,,Diabetes,2023-08-23
+PT00150,26,F,healthy,,,Healthy,,,None,2023-08-05
+PT00151,50,F,healthy,,,Healthy,,,Diabetes,2023-01-24
+PT00152,43,F,healthy,,,Healthy,,,Diabetes,2023-02-15
+PT00153,18,F,healthy,,,Healthy,,,None,2023-10-22
+PT00154,84,F,healthy,,,Healthy,,,None,2023-04-17
+PT00155,72,F,healthy,,,Healthy,,,None,2023-11-04
+PT00156,48,M,healthy,,,Healthy,,,Hypertension,2023-06-18
+PT00157,76,F,healthy,,,Healthy,,,None,2023-08-02
+PT00158,18,M,healthy,,,Healthy,,,None,2023-09-17
+PT00159,43,F,healthy,,,Healthy,,,Diabetes,2023-01-05
+PT00160,29,F,healthy,,,Healthy,,,Multiple,2023-05-24
+PT00161,55,F,healthy,,,Healthy,,,None,2023-08-11
+PT00162,42,F,healthy,,,Healthy,,,None,2023-03-21
+PT00163,36,F,healthy,,,Healthy,,,Multiple,2023-09-13
+PT00164,34,F,healthy,,,Healthy,,,Hypertension,2023-08-07
+PT00165,53,F,healthy,,,Healthy,,,Hypertension,2023-01-25
+PT00166,49,M,healthy,,,Healthy,,,None,2023-02-14
+PT00167,18,M,healthy,,,Healthy,,,Hypertension,2023-10-20
+PT00168,66,F,healthy,,,Healthy,,,Hypertension,2023-04-07
+PT00169,57,F,healthy,,,Healthy,,,None,2023-04-22
+PT00170,60,F,healthy,,,Healthy,,,None,2023-10-01
+PT00171,46,M,healthy,,,Healthy,,,None,2023-04-24
+PT00172,30,M,healthy,,,Healthy,,,Hypertension,2023-04-12
+PT00173,64,F,healthy,,,Healthy,,,Hypertension,2023-04-11
+PT00174,74,F,healthy,,,Healthy,,,None,2023-06-08
+PT00175,19,F,healthy,,,Healthy,,,Multiple,2023-08-18
+PT00176,35,F,healthy,,,Healthy,,,None,2023-12-11
+PT00177,46,F,healthy,,,Healthy,,,Multiple,2023-08-10
+PT00178,55,F,healthy,,,Healthy,,,None,2023-09-22
+PT00179,40,M,healthy,,,Healthy,,,None,2023-07-25
+PT00180,37,M,healthy,,,Healthy,,,None,2023-03-08
+PT00181,21,F,healthy,,,Healthy,,,None,2023-09-21
+PT00182,66,F,healthy,,,Healthy,,,None,2023-04-25
+PT00183,21,F,healthy,,,Healthy,,,Hypertension,2023-11-12
+PT00184,18,F,healthy,,,Healthy,,,None,2023-09-07
+PT00185,60,M,healthy,,,Healthy,,,None,2023-02-21
+PT00186,34,M,healthy,,,Healthy,,,Multiple,2023-09-17
+PT00187,61,F,healthy,,,Healthy,,,None,2023-07-01
+PT00188,47,M,healthy,,,Healthy,,,None,2023-03-27
+PT00189,36,M,healthy,,,Healthy,,,Hypertension,2023-08-19
+PT00190,61,M,healthy,,,Healthy,,,Diabetes,2023-02-02
+PT00191,21,M,healthy,,,Healthy,,,Diabetes,2023-04-01
+PT00192,85,M,healthy,,,Healthy,,,None,2023-03-10
+PT00193,57,M,healthy,,,Healthy,,,None,2023-12-18
+PT00194,25,F,healthy,,,Healthy,,,None,2023-09-23
+PT00195,33,M,healthy,,,Healthy,,,Hypertension,2023-09-15
+PT00196,35,F,healthy,,,Healthy,,,Diabetes,2023-12-15
+PT00197,57,F,healthy,,,Healthy,,,Hypertension,2023-11-16
+PT00198,54,M,healthy,,,Healthy,,,Hypertension,2023-05-14
+PT00199,53,M,healthy,,,Healthy,,,None,2023-07-21
+PT00200,40,M,healthy,,,Healthy,,,None,2023-04-28
+PT00201,52,F,healthy,,,Healthy,,,None,2023-02-03
+PT00202,48,F,healthy,,,Healthy,,,None,2023-05-05
+PT00203,63,M,healthy,,,Healthy,,,None,2023-04-26
+PT00204,18,F,healthy,,,Healthy,,,None,2023-10-24
+PT00205,44,M,healthy,,,Healthy,,,None,2023-01-14
+PT00206,50,F,healthy,,,Healthy,,,Hypertension,2023-09-07
+PT00207,54,M,healthy,,,Healthy,,,None,2023-02-23
+PT00208,26,F,healthy,,,Healthy,,,Diabetes,2023-05-10
+PT00209,20,F,healthy,,,Healthy,,,Hypertension,2023-10-12
+PT00210,53,M,healthy,,,Healthy,,,None,2023-05-27
+PT00211,69,F,healthy,,,Healthy,,,None,2023-01-26
+PT00212,68,M,healthy,,,Healthy,,,Diabetes,2023-02-28
+PT00213,47,M,healthy,,,Healthy,,,Diabetes,2023-11-04
+PT00214,41,F,healthy,,,Healthy,,,None,2023-03-22
+PT00215,76,F,healthy,,,Healthy,,,Hypertension,2023-01-26
+PT00216,40,M,healthy,,,Healthy,,,None,2023-03-20
+PT00217,44,F,healthy,,,Healthy,,,None,2023-10-02
+PT00218,35,M,healthy,,,Healthy,,,None,2023-01-01
+PT00219,74,M,healthy,,,Healthy,,,None,2023-03-18
+PT00220,44,F,healthy,,,Healthy,,,Hypertension,2023-06-02
+PT00221,40,F,healthy,,,Healthy,,,Multiple,2023-01-10
+PT00222,35,F,healthy,,,Healthy,,,Hypertension,2023-12-16
+PT00223,50,F,healthy,,,Healthy,,,Hypertension,2023-06-16
+PT00224,54,F,healthy,,,Healthy,,,None,2023-09-12
+PT00225,51,M,healthy,,,Healthy,,,Hypertension,2023-10-07
+PT00226,48,M,healthy,,,Healthy,,,Hypertension,2023-09-19
+PT00227,44,F,healthy,,,Healthy,,,Diabetes,2023-02-27
+PT00228,55,F,healthy,,,Healthy,,,None,2023-08-03
+PT00229,32,F,healthy,,,Healthy,,,Hypertension,2023-10-23
+PT00230,85,M,healthy,,,Healthy,,,Hypertension,2023-08-17
+PT00231,75,F,healthy,,,Healthy,,,Hypertension,2023-10-12
+PT00232,52,M,healthy,,,Healthy,,,None,2023-10-02
+PT00233,55,F,healthy,,,Healthy,,,Multiple,2023-04-17
+PT00234,45,M,healthy,,,Healthy,,,None,2023-09-16
+PT00235,38,M,healthy,,,Healthy,,,Hypertension,2023-01-03
+PT00236,66,M,healthy,,,Healthy,,,None,2023-02-04
+PT00237,55,M,healthy,,,Healthy,,,Multiple,2023-09-15
+PT00238,69,M,healthy,,,Healthy,,,Hypertension,2023-12-27
+PT00239,42,F,healthy,,,Healthy,,,Multiple,2023-11-13
+PT00240,32,F,healthy,,,Healthy,,,Hypertension,2023-04-27
+PT00241,62,M,healthy,,,Healthy,,,Diabetes,2023-10-11
+PT00242,40,M,healthy,,,Healthy,,,None,2023-01-26
+PT00243,35,M,healthy,,,Healthy,,,Multiple,2023-01-09
+PT00244,62,F,healthy,,,Healthy,,,Multiple,2023-11-10
+PT00245,18,F,healthy,,,Healthy,,,Diabetes,2023-03-06
+PT00246,85,F,healthy,,,Healthy,,,Hypertension,2023-09-09
+PT00247,18,M,healthy,,,Healthy,,,None,2023-03-25
+PT00248,31,F,healthy,,,Healthy,,,None,2023-08-25
+PT00249,32,M,healthy,,,Healthy,,,None,2023-08-27
+PT00250,46,F,healthy,,,Healthy,,,None,2023-06-05
+PT00251,55,M,healthy,,,Healthy,,,Diabetes,2023-08-13
+PT00252,29,M,healthy,,,Healthy,,,Hypertension,2023-10-03
+PT00253,64,F,healthy,,,Healthy,,,None,2023-06-24
+PT00254,28,F,healthy,,,Healthy,,,Hypertension,2023-01-27
+PT00255,51,F,healthy,,,Healthy,,,Hypertension,2023-10-04
+PT00256,55,F,healthy,,,Healthy,,,Diabetes,2023-07-05
+PT00257,39,F,healthy,,,Healthy,,,None,2023-04-02
+PT00258,32,F,healthy,,,Healthy,,,Hypertension,2023-07-02
+PT00259,57,F,healthy,,,Healthy,,,Hypertension,2023-02-28
+PT00260,22,M,healthy,,,Healthy,,,Diabetes,2023-06-19
+PT00261,48,F,healthy,,,Healthy,,,None,2023-12-15
+PT00262,68,F,healthy,,,Healthy,,,None,2023-04-20
+PT00263,38,M,healthy,,,Healthy,,,Hypertension,2023-06-17
+PT00264,47,F,healthy,,,Healthy,,,None,2023-10-24
+PT00265,36,F,healthy,,,Healthy,,,None,2023-11-01
+PT00266,50,M,healthy,,,Healthy,,,None,2023-03-11
+PT00267,36,M,healthy,,,Healthy,,,Multiple,2023-01-03
+PT00268,73,M,healthy,,,Healthy,,,None,2023-07-11
+PT00269,61,M,healthy,,,Healthy,,,Multiple,2023-12-24
+PT00270,64,M,healthy,,,Healthy,,,Multiple,2023-05-27
+PT00271,18,M,healthy,,,Healthy,,,Hypertension,2023-02-03
+PT00272,36,M,healthy,,,Healthy,,,Hypertension,2023-12-18
+PT00273,43,F,healthy,,,Healthy,,,None,2023-01-21
+PT00274,61,M,healthy,,,Healthy,,,None,2023-02-20
+PT00275,52,F,healthy,,,Healthy,,,None,2023-09-14
+PT00276,41,F,healthy,,,Healthy,,,Hypertension,2023-04-04
+PT00277,22,M,healthy,,,Healthy,,,Hypertension,2023-05-21
+PT00278,49,F,healthy,,,Healthy,,,None,2023-01-08
+PT00279,74,M,healthy,,,Healthy,,,Multiple,2023-06-11
+PT00280,39,F,healthy,,,Healthy,,,Diabetes,2023-06-09
+PT00281,44,M,healthy,,,Healthy,,,None,2023-09-14
+PT00282,36,M,healthy,,,Healthy,,,None,2023-06-28
+PT00283,52,M,healthy,,,Healthy,,,None,2023-02-01
+PT00284,71,M,healthy,,,Healthy,,,None,2023-01-13
+PT00285,42,M,healthy,,,Healthy,,,Hypertension,2023-10-18
+PT00286,34,F,healthy,,,Healthy,,,None,2023-12-17
+PT00287,48,F,healthy,,,Healthy,,,Hypertension,2023-09-18
+PT00288,58,F,healthy,,,Healthy,,,Multiple,2023-12-20
+PT00289,60,M,healthy,,,Healthy,,,Diabetes,2023-04-06
+PT00290,36,F,healthy,,,Healthy,,,None,2023-03-09
+PT00291,41,F,healthy,,,Healthy,,,Hypertension,2023-12-13
+PT00292,26,M,healthy,,,Healthy,,,Hypertension,2023-03-23
+PT00293,70,F,healthy,,,Healthy,,,None,2023-03-12
+PT00294,41,F,healthy,,,Healthy,,,Hypertension,2023-06-05
+PT00295,28,F,healthy,,,Healthy,,,None,2023-01-07
+PT00296,53,M,healthy,,,Healthy,,,Diabetes,2023-10-24
+PT00297,18,M,healthy,,,Healthy,,,Multiple,2023-08-18
+PT00298,31,F,healthy,,,Healthy,,,Hypertension,2023-04-26
+PT00299,43,F,healthy,,,Healthy,,,Multiple,2023-06-07
+PT00300,71,M,healthy,,,Healthy,,,Hypertension,2023-06-12
+PT00301,34,F,healthy,,,Healthy,,,None,2023-10-08
+PT00302,18,M,healthy,,,Healthy,,,Hypertension,2023-10-12
+PT00303,48,M,healthy,,,Healthy,,,None,2023-09-22
+PT00304,18,F,healthy,,,Healthy,,,None,2023-08-07
+PT00305,62,M,healthy,,,Healthy,,,None,2023-09-28
+PT00306,18,M,healthy,,,Healthy,,,Hypertension,2023-01-08
+PT00307,20,M,healthy,,,Healthy,,,None,2023-10-03
+PT00308,68,M,healthy,,,Healthy,,,None,2023-10-12
+PT00309,41,M,healthy,,,Healthy,,,Hypertension,2023-01-25
+PT00310,63,M,healthy,,,Healthy,,,None,2023-09-11
+PT00311,57,M,healthy,,,Healthy,,,Diabetes,2023-12-24
+PT00312,63,F,healthy,,,Healthy,,,Diabetes,2023-12-27
+PT00313,40,M,healthy,,,Healthy,,,Hypertension,2023-04-26
+PT00314,36,M,healthy,,,Healthy,,,None,2023-06-05
+PT00315,42,M,healthy,,,Healthy,,,None,2023-10-20
+PT00316,51,F,healthy,,,Healthy,,,Multiple,2023-11-02
+PT00317,21,F,healthy,,,Healthy,,,None,2023-06-20
+PT00318,52,M,healthy,,,Healthy,,,None,2023-04-16
+PT00319,45,M,healthy,,,Healthy,,,None,2023-07-08
+PT00320,46,M,healthy,,,Healthy,,,None,2023-06-15
+PT00321,58,F,healthy,,,Healthy,,,Hypertension,2023-02-18
+PT00322,52,F,healthy,,,Healthy,,,Diabetes,2023-08-17
+PT00323,61,M,healthy,,,Healthy,,,Hypertension,2023-05-16
+PT00324,62,F,healthy,,,Healthy,,,None,2023-12-02
+PT00325,44,F,healthy,,,Healthy,,,Diabetes,2023-09-11
+PT00326,49,F,healthy,,,Healthy,,,None,2023-04-06
+PT00327,58,F,healthy,,,Healthy,,,None,2023-11-01
+PT00328,42,M,healthy,,,Healthy,,,Hypertension,2023-09-21
+PT00329,28,M,healthy,,,Healthy,,,Hypertension,2023-12-25
+PT00330,23,F,healthy,,,Healthy,,,Hypertension,2023-03-12
+PT00331,45,M,healthy,,,Healthy,,,Hypertension,2023-02-14
+PT00332,41,M,healthy,,,Healthy,,,Hypertension,2023-08-16
+PT00333,46,M,healthy,,,Healthy,,,None,2023-11-16
+PT00334,27,F,healthy,,,Healthy,,,Hypertension,2023-12-27
+PT00335,64,M,healthy,,,Healthy,,,Diabetes,2023-05-28
+PT00336,46,F,healthy,,,Healthy,,,Hypertension,2023-03-15
+PT00337,43,M,healthy,,,Healthy,,,None,2023-04-16
+PT00338,23,F,healthy,,,Healthy,,,Hypertension,2023-12-03
+PT00339,32,F,healthy,,,Healthy,,,None,2023-04-26
+PT00340,47,M,healthy,,,Healthy,,,None,2023-12-10
+PT00341,36,M,healthy,,,Healthy,,,Diabetes,2023-10-24
+PT00342,52,F,healthy,,,Healthy,,,None,2023-07-22
+PT00343,36,F,healthy,,,Healthy,,,Multiple,2023-07-22
+PT00344,45,F,healthy,,,Healthy,,,Diabetes,2023-09-26
+PT00345,52,M,healthy,,,Healthy,,,Diabetes,2023-08-24
+PT00346,25,M,healthy,,,Healthy,,,None,2023-05-04
+PT00347,57,M,healthy,,,Healthy,,,Hypertension,2023-02-19
+PT00348,36,F,healthy,,,Healthy,,,None,2023-02-05
+PT00349,52,F,healthy,,,Healthy,,,None,2023-01-22
+PT00350,33,M,healthy,,,Healthy,,,Hypertension,2023-12-07
+PT00351,21,M,healthy,,,Healthy,,,Hypertension,2023-09-02
+PT00352,49,M,healthy,,,Healthy,,,Hypertension,2023-02-03
+PT00353,18,F,healthy,,,Healthy,,,None,2023-08-28
+PT00354,18,F,healthy,,,Healthy,,,Hypertension,2023-06-10
+PT00355,47,M,healthy,,,Healthy,,,Hypertension,2023-04-03
+PT00356,48,M,healthy,,,Healthy,,,None,2023-06-09
+PT00357,29,F,healthy,,,Healthy,,,Hypertension,2023-12-27
+PT00358,76,F,healthy,,,Healthy,,,None,2023-08-18
+PT00359,28,M,healthy,,,Healthy,,,None,2023-02-23
+PT00360,55,M,healthy,,,Healthy,,,None,2023-03-02
+PT00361,18,F,healthy,,,Healthy,,,None,2023-05-13
+PT00362,35,F,healthy,,,Healthy,,,Diabetes,2023-07-16
+PT00363,21,F,healthy,,,Healthy,,,None,2023-12-08
+PT00364,18,F,healthy,,,Healthy,,,Multiple,2023-07-28
+PT00365,57,M,healthy,,,Healthy,,,Hypertension,2023-04-06
+PT00366,56,M,healthy,,,Healthy,,,Diabetes,2023-01-21
+PT00367,52,F,healthy,,,Healthy,,,None,2023-01-23
+PT00368,53,M,healthy,,,Healthy,,,None,2023-05-02
+PT00369,46,M,healthy,,,Healthy,,,None,2023-07-26
+PT00370,55,F,healthy,,,Healthy,,,Hypertension,2023-03-22
+PT00371,48,F,healthy,,,Healthy,,,None,2023-01-10
+PT00372,44,F,healthy,,,Healthy,,,Hypertension,2023-08-10
+PT00373,49,F,healthy,,,Healthy,,,None,2023-09-15
+PT00374,49,M,healthy,,,Healthy,,,None,2023-02-03
+PT00375,45,F,healthy,,,Healthy,,,Diabetes,2023-09-22
+PT00376,44,M,healthy,,,Healthy,,,Hypertension,2023-01-14
+PT00377,49,F,healthy,,,Healthy,,,Hypertension,2023-02-08
+PT00378,43,M,healthy,,,Healthy,,,Hypertension,2023-04-13
+PT00379,52,M,healthy,,,Healthy,,,None,2023-04-18
+PT00380,45,M,healthy,,,Healthy,,,Diabetes,2023-11-02
+PT00381,30,M,healthy,,,Healthy,,,Diabetes,2023-10-25
+PT00382,51,M,healthy,,,Healthy,,,Multiple,2023-08-15
+PT00383,35,F,healthy,,,Healthy,,,None,2023-04-04
+PT00384,40,F,healthy,,,Healthy,,,Diabetes,2023-07-28
+PT00385,59,F,healthy,,,Healthy,,,None,2023-05-20
+PT00386,22,M,healthy,,,Healthy,,,Hypertension,2023-03-07
+PT00387,18,M,healthy,,,Healthy,,,None,2023-05-23
+PT00388,85,M,healthy,,,Healthy,,,None,2023-06-06
+PT00389,57,M,healthy,,,Healthy,,,Hypertension,2023-01-13
+PT00390,33,M,healthy,,,Healthy,,,None,2023-05-21
+PT00391,30,F,healthy,,,Healthy,,,None,2023-04-23
+PT00392,44,M,healthy,,,Healthy,,,None,2023-02-20
+PT00393,55,F,healthy,,,Healthy,,,Hypertension,2023-06-10
+PT00394,26,F,healthy,,,Healthy,,,Diabetes,2023-09-17
+PT00395,51,F,healthy,,,Healthy,,,None,2023-01-10
+PT00396,47,F,healthy,,,Healthy,,,None,2023-08-21
+PT00397,44,M,healthy,,,Healthy,,,None,2023-01-15
+PT00398,64,F,healthy,,,Healthy,,,None,2023-03-05
+PT00399,46,F,healthy,,,Healthy,,,None,2023-09-23
+PT00400,70,F,healthy,,,Healthy,,,None,2023-08-03
+PT00401,32,M,healthy,,,Healthy,,,None,2023-03-07
+PT00402,64,F,healthy,,,Healthy,,,None,2023-10-05
+PT00403,63,M,healthy,,,Healthy,,,None,2023-12-17
+PT00404,47,M,healthy,,,Healthy,,,Diabetes,2023-09-09
+PT00405,26,M,healthy,,,Healthy,,,Hypertension,2023-09-09
+PT00406,37,F,healthy,,,Healthy,,,None,2023-02-10
+PT00407,35,F,healthy,,,Healthy,,,Hypertension,2023-05-16
+PT00408,58,F,healthy,,,Healthy,,,Hypertension,2023-11-10
+PT00409,53,M,healthy,,,Healthy,,,None,2023-11-14
+PT00410,41,M,healthy,,,Healthy,,,Hypertension,2023-06-20
+PT00411,37,M,healthy,,,Healthy,,,Diabetes,2023-08-21
+PT00412,40,M,healthy,,,Healthy,,,Diabetes,2023-07-07
+PT00413,57,M,healthy,,,Healthy,,,Diabetes,2023-08-14
+PT00414,32,F,healthy,,,Healthy,,,Hypertension,2023-11-22
+PT00415,32,F,healthy,,,Healthy,,,Hypertension,2023-02-21
+PT00416,58,F,healthy,,,Healthy,,,Diabetes,2023-03-23
+PT00417,52,F,healthy,,,Healthy,,,Hypertension,2023-08-03
+PT00418,55,M,healthy,,,Healthy,,,Hypertension,2023-07-12
+PT00419,64,M,healthy,,,Healthy,,,None,2023-08-01
+PT00420,55,F,healthy,,,Healthy,,,Diabetes,2023-04-08
+PT00421,48,F,healthy,,,Healthy,,,None,2023-05-14
+PT00422,42,F,healthy,,,Healthy,,,None,2023-09-16
+PT00423,49,M,healthy,,,Healthy,,,Diabetes,2023-06-12
+PT00424,66,F,healthy,,,Healthy,,,None,2023-02-21
+PT00425,23,M,healthy,,,Healthy,,,None,2023-08-19
+PT00426,28,F,healthy,,,Healthy,,,None,2023-04-20
+PT00427,34,M,healthy,,,Healthy,,,Hypertension,2023-06-08
+PT00428,55,M,healthy,,,Healthy,,,None,2023-04-28
+PT00429,36,F,healthy,,,Healthy,,,None,2023-10-23
+PT00430,83,F,healthy,,,Healthy,,,None,2023-08-02
+PT00431,69,M,healthy,,,Healthy,,,None,2023-03-22
+PT00432,68,F,healthy,,,Healthy,,,Hypertension,2023-10-06
+PT00433,53,F,healthy,,,Healthy,,,None,2023-07-17
+PT00434,37,M,healthy,,,Healthy,,,None,2023-04-17
+PT00435,67,F,healthy,,,Healthy,,,Multiple,2023-01-17
+PT00436,54,F,healthy,,,Healthy,,,None,2023-11-15
+PT00437,62,M,healthy,,,Healthy,,,Hypertension,2023-05-25
+PT00438,40,F,healthy,,,Healthy,,,Multiple,2023-03-13
+PT00439,55,F,healthy,,,Healthy,,,Hypertension,2023-11-13
+PT00440,70,F,healthy,,,Healthy,,,None,2023-03-14
+PT00441,36,M,healthy,,,Healthy,,,None,2023-05-10
+PT00442,25,F,healthy,,,Healthy,,,Hypertension,2023-10-04
+PT00443,46,M,healthy,,,Healthy,,,None,2023-12-12
+PT00444,47,M,healthy,,,Healthy,,,Diabetes,2023-08-25
+PT00445,43,M,healthy,,,Healthy,,,None,2023-12-14
+PT00446,41,M,healthy,,,Healthy,,,None,2023-06-10
+PT00447,37,M,healthy,,,Healthy,,,Diabetes,2023-11-20
+PT00448,55,F,healthy,,,Healthy,,,Hypertension,2023-05-04
+PT00449,61,M,healthy,,,Healthy,,,None,2023-08-11
+PT00450,34,F,healthy,,,Healthy,,,Hypertension,2023-07-21
+PT00451,43,M,healthy,,,Healthy,,,Hypertension,2023-10-21
+PT00452,35,M,healthy,,,Healthy,,,Hypertension,2023-10-05
+PT00453,25,F,healthy,,,Healthy,,,Hypertension,2023-09-09
+PT00454,81,M,healthy,,,Healthy,,,Hypertension,2023-10-25
+PT00455,48,F,healthy,,,Healthy,,,None,2023-02-28
+PT00456,62,F,healthy,,,Healthy,,,None,2023-06-17
+PT00457,32,M,healthy,,,Healthy,,,None,2023-05-05
+PT00458,46,F,healthy,,,Healthy,,,Diabetes,2023-02-10
+PT00459,18,F,healthy,,,Healthy,,,Hypertension,2023-08-15
+PT00460,29,M,healthy,,,Healthy,,,Diabetes,2023-10-03
+PT00461,35,M,healthy,,,Healthy,,,None,2023-04-22
+PT00462,33,M,healthy,,,Healthy,,,None,2023-06-20
+PT00463,39,M,healthy,,,Healthy,,,Multiple,2023-10-17
+PT00464,52,M,healthy,,,Healthy,,,None,2023-03-08
+PT00465,33,F,healthy,,,Healthy,,,None,2023-07-25
+PT00466,22,M,healthy,,,Healthy,,,None,2023-05-19
+PT00467,37,M,healthy,,,Healthy,,,None,2023-09-04
+PT00468,37,M,healthy,,,Healthy,,,None,2023-09-15
+PT00469,18,F,healthy,,,Healthy,,,None,2023-03-13
+PT00470,60,F,healthy,,,Healthy,,,None,2023-08-06
+PT00471,39,M,healthy,,,Healthy,,,Diabetes,2023-12-16
+PT00472,38,M,healthy,,,Healthy,,,None,2023-06-14
+PT00473,45,F,healthy,,,Healthy,,,None,2023-07-21
+PT00474,66,F,healthy,,,Healthy,,,Hypertension,2023-04-28
+PT00475,42,M,healthy,,,Healthy,,,None,2023-09-03
+PT00476,59,F,healthy,,,Healthy,,,Hypertension,2023-02-26
+PT00477,47,M,healthy,,,Healthy,,,Diabetes,2023-04-06
+PT00478,39,F,healthy,,,Healthy,,,Hypertension,2023-12-25
+PT00479,64,M,healthy,,,Healthy,,,None,2023-02-22
+PT00480,43,F,healthy,,,Healthy,,,None,2023-10-16
+PT00481,57,M,healthy,,,Healthy,,,None,2023-04-02
+PT00482,53,M,healthy,,,Healthy,,,None,2023-10-11
+PT00483,63,M,healthy,,,Healthy,,,Diabetes,2023-11-15
+PT00484,67,M,healthy,,,Healthy,,,None,2023-02-02
+PT00485,31,F,healthy,,,Healthy,,,Multiple,2023-07-23
+PT00486,52,M,healthy,,,Healthy,,,None,2023-10-25
+PT00487,36,M,healthy,,,Healthy,,,Diabetes,2023-05-14
+PT00488,33,F,glioma,IV,Cerebrum,Deceased,Surgery,81.0,None,2023-01-06
+PT00489,67,M,glioma,III,Cerebrum,Deceased,Radiation,37.0,None,2023-11-20
+PT00490,89,M,glioma,III,Cerebrum,Deceased,Surgery,85.0,Multiple,2023-03-10
+PT00491,70,F,glioma,III,Cerebrum,In Remission,Radiation,30.0,Diabetes,2023-08-06
+PT00492,63,M,glioma,I,Cerebrum,Active,Radiation,54.0,None,2023-11-21
+PT00493,36,F,glioma,I,Brainstem,Deceased,Combined,112.0,None,2023-08-23
+PT00494,35,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,61.0,Hypertension,2023-05-05
+PT00495,40,M,glioma,IV,Cerebrum,Active,Combined,100.0,Diabetes,2023-01-08
+PT00496,42,M,glioma,III,Cerebrum,In Remission,Combined,116.0,None,2023-04-22
+PT00497,84,F,glioma,IV,Cerebrum,In Remission,Surgery,33.0,Diabetes,2023-03-22
+PT00498,78,M,glioma,II,Cerebrum,Deceased,Chemotherapy,40.0,None,2023-09-18
+PT00499,47,M,glioma,I,Cerebrum,Deceased,Chemotherapy,115.0,Hypertension,2023-03-16
+PT00500,20,M,glioma,II,Cerebrum,Active,Surgery,64.0,Diabetes,2023-04-28
+PT00501,49,M,glioma,II,Cerebrum,Active,Chemotherapy,90.0,None,2023-09-17
+PT00502,22,M,glioma,II,Cerebrum,Deceased,Radiation,13.0,None,2023-11-13
+PT00503,81,F,glioma,III,Cerebrum,In Remission,Chemotherapy,101.0,Multiple,2023-10-05
+PT00504,42,M,glioma,III,Cerebrum,Active,Surgery,49.0,Diabetes,2023-02-02
+PT00505,74,F,glioma,I,Cerebrum,In Remission,Combined,87.0,None,2023-09-07
+PT00506,65,M,glioma,III,Cerebrum,Deceased,Radiation,16.0,Hypertension,2023-06-09
+PT00507,72,F,glioma,I,Brainstem,Active,Radiation,42.0,Diabetes,2023-09-12
+PT00508,60,M,glioma,III,Cerebrum,Active,Surgery,51.0,None,2023-09-23
+PT00509,73,M,glioma,I,Cerebrum,Deceased,Radiation,110.0,Diabetes,2023-03-03
+PT00510,48,F,glioma,IV,Cerebrum,In Remission,Radiation,68.0,None,2023-12-01
+PT00511,80,M,glioma,III,Cerebrum,In Remission,Combined,30.0,None,2023-12-18
+PT00512,90,F,glioma,II,Cerebrum,In Remission,Chemotherapy,49.0,Diabetes,2023-08-02
+PT00513,59,F,glioma,I,Cerebrum,Deceased,Surgery,90.0,Hypertension,2023-11-13
+PT00514,75,M,glioma,I,Cerebrum,In Remission,Surgery,61.0,None,2023-05-10
+PT00515,53,F,glioma,III,Cerebellum,Deceased,Chemotherapy,49.0,None,2023-01-13
+PT00516,59,F,glioma,IV,Brainstem,In Remission,Radiation,97.0,None,2023-07-19
+PT00517,74,F,glioma,II,Cerebrum,In Remission,Surgery,22.0,Hypertension,2023-03-01
+PT00518,46,F,glioma,I,Cerebrum,In Remission,Radiation,62.0,Diabetes,2023-03-28
+PT00519,36,F,glioma,III,Cerebellum,Active,Combined,103.0,Hypertension,2023-03-27
+PT00520,33,F,glioma,IV,Cerebrum,Deceased,Surgery,13.0,Hypertension,2023-05-17
+PT00521,48,M,glioma,IV,Brainstem,In Remission,Surgery,63.0,Diabetes,2023-07-26
+PT00522,90,M,glioma,III,Cerebrum,In Remission,Combined,75.0,None,2023-02-17
+PT00523,76,F,glioma,III,Brainstem,Active,Surgery,118.0,None,2023-01-17
+PT00524,48,M,glioma,II,Cerebrum,Active,Surgery,49.0,Hypertension,2023-07-16
+PT00525,90,F,glioma,IV,Cerebrum,In Remission,Radiation,105.0,None,2023-03-18
+PT00526,63,F,glioma,IV,Cerebrum,Active,Combined,27.0,Hypertension,2023-05-13
+PT00527,69,F,glioma,IV,Cerebellum,In Remission,Surgery,20.0,Hypertension,2023-04-06
+PT00528,68,M,glioma,III,Cerebrum,In Remission,Combined,56.0,Multiple,2023-11-06
+PT00529,46,M,glioma,IV,Cerebellum,Active,Surgery,15.0,Hypertension,2023-12-02
+PT00530,51,M,glioma,IV,Brainstem,In Remission,Combined,104.0,Hypertension,2023-07-01
+PT00531,28,M,glioma,II,Cerebrum,In Remission,Surgery,66.0,Hypertension,2023-10-10
+PT00532,59,F,glioma,III,Cerebrum,In Remission,Radiation,64.0,Diabetes,2023-06-04
+PT00533,62,M,glioma,III,Cerebrum,Active,Combined,77.0,None,2023-01-15
+PT00534,45,M,glioma,II,Cerebellum,In Remission,Radiation,92.0,None,2023-02-08
+PT00535,39,M,glioma,II,Cerebrum,Deceased,Chemotherapy,102.0,Multiple,2023-03-13
+PT00536,75,M,glioma,II,Brainstem,In Remission,Surgery,98.0,None,2023-01-28
+PT00537,80,M,glioma,II,Cerebellum,In Remission,Combined,119.0,None,2023-04-15
+PT00538,71,F,glioma,II,Cerebrum,In Remission,Combined,28.0,None,2023-07-28
+PT00539,53,M,glioma,III,Cerebellum,Active,Combined,15.0,None,2023-04-02
+PT00540,75,M,glioma,III,Cerebrum,Deceased,Surgery,111.0,Diabetes,2023-02-09
+PT00541,61,F,glioma,II,Cerebrum,In Remission,Combined,65.0,Hypertension,2023-05-28
+PT00542,38,M,glioma,III,Cerebellum,In Remission,Radiation,58.0,Diabetes,2023-05-06
+PT00543,50,M,glioma,III,Cerebrum,In Remission,Surgery,54.0,Diabetes,2023-10-28
+PT00544,37,M,glioma,IV,Cerebrum,Active,Surgery,94.0,Multiple,2023-11-22
+PT00545,50,M,glioma,I,Cerebrum,In Remission,Radiation,68.0,None,2023-11-21
+PT00546,58,F,glioma,IV,Cerebellum,Active,Combined,99.0,Hypertension,2023-08-08
+PT00547,46,F,glioma,IV,Brainstem,In Remission,Radiation,98.0,Hypertension,2023-04-26
+PT00548,47,F,glioma,II,Cerebrum,In Remission,Combined,43.0,None,2023-09-17
+PT00549,43,M,glioma,III,Cerebellum,In Remission,Surgery,64.0,Hypertension,2023-04-15
+PT00550,44,M,glioma,III,Cerebellum,Deceased,Chemotherapy,56.0,None,2023-09-14
+PT00551,35,F,glioma,III,Cerebrum,In Remission,Combined,80.0,Hypertension,2023-06-18
+PT00552,52,M,glioma,II,Cerebrum,In Remission,Combined,19.0,None,2023-11-12
+PT00553,63,M,glioma,IV,Cerebrum,Deceased,Combined,66.0,Multiple,2023-09-12
+PT00554,61,M,glioma,III,Cerebrum,Active,Combined,28.0,None,2023-12-19
+PT00555,40,F,glioma,II,Brainstem,Deceased,Chemotherapy,108.0,None,2023-04-15
+PT00556,78,M,glioma,III,Cerebellum,Deceased,Combined,95.0,None,2023-09-05
+PT00557,32,M,glioma,IV,Cerebellum,Active,Chemotherapy,95.0,None,2023-10-04
+PT00558,65,M,glioma,II,Brainstem,Deceased,Surgery,95.0,None,2023-03-20
+PT00559,53,M,glioma,III,Brainstem,In Remission,Radiation,93.0,Hypertension,2023-02-01
+PT00560,42,M,glioma,IV,Cerebrum,In Remission,Surgery,116.0,None,2023-01-17
+PT00561,62,M,glioma,III,Cerebellum,In Remission,Chemotherapy,87.0,Diabetes,2023-03-13
+PT00562,39,M,glioma,IV,Brainstem,Deceased,Chemotherapy,6.0,Diabetes,2023-04-15
+PT00563,29,M,glioma,II,Cerebrum,Active,Combined,93.0,None,2023-03-05
+PT00564,58,M,glioma,I,Cerebellum,Active,Combined,95.0,Diabetes,2023-10-04
+PT00565,22,M,glioma,I,Cerebrum,In Remission,Surgery,71.0,Hypertension,2023-05-25
+PT00566,60,F,glioma,II,Cerebrum,In Remission,Surgery,62.0,None,2023-04-28
+PT00567,74,F,glioma,III,Cerebellum,In Remission,Combined,112.0,Hypertension,2023-11-19
+PT00568,38,M,glioma,II,Brainstem,Deceased,Combined,24.0,None,2023-05-08
+PT00569,44,M,glioma,IV,Cerebrum,In Remission,Radiation,22.0,Hypertension,2023-06-25
+PT00570,59,M,glioma,IV,Cerebrum,Active,Radiation,115.0,Hypertension,2023-09-19
+PT00571,65,F,glioma,III,Cerebellum,In Remission,Combined,34.0,None,2023-09-17
+PT00572,51,M,glioma,I,Cerebrum,Active,Combined,119.0,Diabetes,2023-01-12
+PT00573,42,M,glioma,II,Cerebrum,In Remission,Chemotherapy,79.0,None,2023-03-11
+PT00574,88,F,glioma,I,Cerebellum,Deceased,Chemotherapy,6.0,Hypertension,2023-03-06
+PT00575,64,M,glioma,III,Cerebellum,Deceased,Surgery,66.0,Hypertension,2023-03-12
+PT00576,55,M,glioma,IV,Cerebellum,In Remission,Combined,13.0,Diabetes,2023-03-25
+PT00577,43,F,glioma,III,Cerebellum,Deceased,Surgery,82.0,None,2023-01-17
+PT00578,68,M,glioma,II,Cerebrum,In Remission,Combined,16.0,Hypertension,2023-05-22
+PT00579,41,M,glioma,II,Cerebrum,Active,Surgery,41.0,Multiple,2023-04-22
+PT00580,31,F,glioma,I,Cerebellum,In Remission,Combined,31.0,None,2023-02-10
+PT00581,62,M,glioma,III,Brainstem,In Remission,Surgery,95.0,None,2023-11-17
+PT00582,54,M,glioma,II,Cerebrum,In Remission,Chemotherapy,35.0,Hypertension,2023-06-26
+PT00583,42,M,glioma,IV,Cerebrum,Active,Radiation,86.0,None,2023-02-21
+PT00584,58,M,glioma,IV,Cerebrum,In Remission,Combined,59.0,Hypertension,2023-11-04
+PT00585,90,M,glioma,IV,Cerebrum,In Remission,Combined,41.0,Hypertension,2023-12-01
+PT00586,37,M,glioma,III,Cerebrum,In Remission,Combined,47.0,Hypertension,2023-10-06
+PT00587,54,M,glioma,IV,Brainstem,In Remission,Chemotherapy,104.0,Hypertension,2023-11-26
+PT00588,51,F,glioma,II,Cerebrum,In Remission,Combined,51.0,Hypertension,2023-05-23
+PT00589,53,M,glioma,I,Brainstem,In Remission,Chemotherapy,73.0,Hypertension,2023-11-16
+PT00590,50,M,glioma,IV,Cerebellum,Deceased,Combined,61.0,None,2023-08-14
+PT00591,60,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,17.0,Diabetes,2023-07-17
+PT00592,20,F,glioma,IV,Cerebellum,Active,Combined,4.0,Hypertension,2023-11-27
+PT00593,44,M,glioma,III,Brainstem,Active,Combined,24.0,Diabetes,2023-10-25
+PT00594,85,M,glioma,III,Cerebrum,In Remission,Surgery,103.0,None,2023-07-03
+PT00595,86,M,glioma,II,Cerebrum,Active,Surgery,23.0,Hypertension,2023-03-13
+PT00596,36,F,glioma,III,Cerebellum,Active,Combined,29.0,Hypertension,2023-07-25
+PT00597,30,F,glioma,IV,Cerebrum,Deceased,Combined,38.0,Hypertension,2023-01-10
+PT00598,31,M,glioma,II,Cerebrum,Deceased,Surgery,111.0,Hypertension,2023-06-09
+PT00599,62,F,glioma,IV,Cerebellum,In Remission,Combined,40.0,None,2023-07-13
+PT00600,70,F,glioma,II,Cerebrum,In Remission,Combined,96.0,Hypertension,2023-06-12
+PT00601,32,M,glioma,I,Cerebrum,Deceased,Surgery,12.0,Hypertension,2023-03-04
+PT00602,55,M,glioma,II,Cerebrum,Active,Surgery,21.0,None,2023-12-24
+PT00603,73,M,glioma,III,Cerebrum,In Remission,Combined,76.0,None,2023-02-19
+PT00604,90,M,glioma,III,Cerebrum,Deceased,Combined,119.0,None,2023-07-24
+PT00605,37,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,73.0,Diabetes,2023-09-27
+PT00606,66,M,glioma,III,Cerebrum,In Remission,Chemotherapy,36.0,Hypertension,2023-09-24
+PT00607,50,F,glioma,II,Cerebrum,Active,Radiation,31.0,None,2023-02-09
+PT00608,84,F,glioma,III,Cerebrum,In Remission,Combined,62.0,None,2023-02-08
+PT00609,50,M,glioma,IV,Cerebrum,In Remission,Surgery,77.0,Hypertension,2023-06-15
+PT00610,71,M,glioma,IV,Cerebrum,In Remission,Surgery,89.0,None,2023-11-23
+PT00611,44,F,glioma,III,Cerebellum,Active,Surgery,64.0,Diabetes,2023-09-28
+PT00612,20,F,glioma,I,Cerebrum,Active,Radiation,75.0,Hypertension,2023-05-16
+PT00613,68,M,glioma,I,Cerebrum,In Remission,Combined,82.0,Hypertension,2023-12-06
+PT00614,66,F,glioma,IV,Cerebellum,In Remission,Combined,47.0,Diabetes,2023-05-22
+PT00615,40,M,glioma,IV,Cerebrum,In Remission,Surgery,70.0,Diabetes,2023-12-10
+PT00616,74,M,glioma,II,Cerebrum,In Remission,Chemotherapy,101.0,None,2023-01-06
+PT00617,90,F,glioma,II,Cerebrum,Deceased,Radiation,112.0,None,2023-04-07
+PT00618,64,M,glioma,III,Cerebellum,In Remission,Combined,81.0,Diabetes,2023-10-05
+PT00619,43,M,glioma,III,Cerebrum,In Remission,Combined,90.0,Hypertension,2023-08-14
+PT00620,63,F,glioma,II,Cerebellum,Deceased,Chemotherapy,31.0,None,2023-06-18
+PT00621,46,F,glioma,I,Cerebrum,Deceased,Chemotherapy,33.0,Diabetes,2023-10-03
+PT00622,66,F,glioma,II,Cerebrum,In Remission,Surgery,86.0,None,2023-03-22
+PT00623,22,F,glioma,II,Cerebrum,In Remission,Combined,107.0,None,2023-07-15
+PT00624,66,M,glioma,I,Brainstem,In Remission,Chemotherapy,94.0,Hypertension,2023-03-11
+PT00625,39,F,glioma,III,Cerebellum,In Remission,Chemotherapy,39.0,Hypertension,2023-11-05
+PT00626,62,F,glioma,IV,Cerebrum,Deceased,Combined,27.0,Hypertension,2023-11-18
+PT00627,71,M,glioma,IV,Cerebrum,Active,Combined,91.0,Hypertension,2023-10-22
+PT00628,48,M,glioma,III,Cerebrum,Active,Combined,88.0,Hypertension,2023-01-14
+PT00629,64,F,glioma,IV,Cerebellum,Deceased,Radiation,58.0,Multiple,2023-02-05
+PT00630,78,F,glioma,III,Cerebrum,In Remission,Surgery,54.0,None,2023-08-08
+PT00631,57,F,glioma,II,Cerebrum,In Remission,Radiation,70.0,Diabetes,2023-11-21
+PT00632,53,F,glioma,IV,Cerebrum,Active,Surgery,83.0,Hypertension,2023-07-25
+PT00633,76,M,glioma,II,Cerebrum,Deceased,Combined,66.0,Diabetes,2023-03-14
+PT00634,52,M,glioma,I,Cerebrum,Active,Radiation,104.0,Multiple,2023-04-15
+PT00635,24,F,glioma,II,Cerebrum,Active,Surgery,41.0,None,2023-04-13
+PT00636,46,M,glioma,II,Cerebellum,Active,Chemotherapy,90.0,None,2023-07-22
+PT00637,20,F,glioma,IV,Cerebrum,In Remission,Radiation,35.0,Hypertension,2023-12-23
+PT00638,52,M,glioma,III,Cerebrum,Deceased,Surgery,58.0,None,2023-06-13
+PT00639,66,F,glioma,III,Cerebrum,Active,Surgery,15.0,Multiple,2023-09-08
+PT00640,20,M,glioma,II,Cerebrum,In Remission,Radiation,55.0,Hypertension,2023-12-07
+PT00641,58,M,glioma,III,Cerebrum,In Remission,Combined,92.0,Diabetes,2023-06-19
+PT00642,50,F,glioma,III,Cerebellum,In Remission,Combined,83.0,None,2023-11-06
+PT00643,59,M,glioma,III,Brainstem,In Remission,Radiation,83.0,None,2023-06-14
+PT00644,51,M,glioma,IV,Cerebellum,In Remission,Combined,104.0,Diabetes,2023-04-25
+PT00645,90,F,glioma,IV,Cerebrum,In Remission,Surgery,88.0,None,2023-04-01
+PT00646,90,F,glioma,II,Cerebrum,Active,Combined,25.0,None,2023-08-27
+PT00647,60,M,glioma,III,Cerebellum,Active,Radiation,84.0,Hypertension,2023-07-13
+PT00648,51,F,glioma,II,Cerebellum,Active,Surgery,23.0,None,2023-01-08
+PT00649,67,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,68.0,None,2023-06-15
+PT00650,34,M,glioma,I,Cerebrum,Active,Surgery,99.0,Diabetes,2023-09-25
+PT00651,70,M,glioma,I,Cerebrum,In Remission,Surgery,104.0,Diabetes,2023-08-23
+PT00652,83,F,glioma,II,Cerebrum,In Remission,Chemotherapy,83.0,Diabetes,2023-03-19
+PT00653,51,F,glioma,III,Brainstem,Active,Combined,21.0,None,2023-12-02
+PT00654,53,F,glioma,III,Cerebrum,In Remission,Combined,47.0,Multiple,2023-04-26
+PT00655,72,F,glioma,IV,Cerebrum,In Remission,Surgery,39.0,None,2023-02-16
+PT00656,73,F,glioma,IV,Cerebrum,In Remission,Combined,119.0,None,2023-08-12
+PT00657,39,M,glioma,IV,Cerebrum,Active,Surgery,75.0,Diabetes,2023-08-10
+PT00658,32,M,glioma,II,Cerebrum,Deceased,Combined,37.0,None,2023-05-12
+PT00659,24,F,glioma,IV,Brainstem,In Remission,Combined,12.0,None,2023-02-03
+PT00660,27,M,glioma,III,Cerebellum,Active,Combined,99.0,None,2023-10-26
+PT00661,62,F,glioma,III,Cerebrum,In Remission,Surgery,119.0,Hypertension,2023-04-27
+PT00662,43,F,glioma,IV,Cerebrum,In Remission,Combined,21.0,None,2023-01-08
+PT00663,63,M,glioma,III,Cerebrum,Active,Combined,95.0,None,2023-11-16
+PT00664,64,F,glioma,III,Cerebrum,Deceased,Surgery,41.0,None,2023-11-08
+PT00665,61,F,glioma,IV,Cerebrum,Deceased,Chemotherapy,113.0,None,2023-04-25
+PT00666,52,F,glioma,III,Cerebrum,In Remission,Chemotherapy,74.0,Hypertension,2023-10-21
+PT00667,50,F,glioma,IV,Cerebrum,Active,Radiation,15.0,None,2023-01-16
+PT00668,57,M,glioma,IV,Cerebrum,In Remission,Combined,65.0,Diabetes,2023-01-21
+PT00669,45,M,glioma,III,Brainstem,In Remission,Surgery,70.0,Hypertension,2023-02-04
+PT00670,59,F,glioma,IV,Cerebrum,In Remission,Surgery,30.0,Diabetes,2023-12-03
+PT00671,51,F,glioma,III,Cerebellum,Deceased,Combined,19.0,Diabetes,2023-02-01
+PT00672,43,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,90.0,None,2023-04-08
+PT00673,60,M,glioma,III,Cerebrum,Deceased,Radiation,10.0,Hypertension,2023-11-09
+PT00674,49,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,68.0,None,2023-10-06
+PT00675,90,M,glioma,IV,Cerebellum,Active,Combined,8.0,Multiple,2023-12-04
+PT00676,61,F,glioma,III,Cerebrum,Active,Radiation,75.0,None,2023-04-06
+PT00677,50,M,glioma,I,Brainstem,Deceased,Chemotherapy,43.0,None,2023-06-24
+PT00678,53,F,glioma,IV,Cerebrum,In Remission,Chemotherapy,117.0,None,2023-12-12
+PT00679,78,M,glioma,IV,Cerebrum,In Remission,Surgery,58.0,None,2023-07-25
+PT00680,74,M,glioma,II,Cerebrum,In Remission,Combined,69.0,None,2023-09-25
+PT00681,73,M,glioma,II,Cerebrum,Deceased,Combined,83.0,None,2023-02-12
+PT00682,84,M,glioma,IV,Cerebrum,In Remission,Surgery,110.0,None,2023-10-16
+PT00683,53,F,glioma,II,Brainstem,In Remission,Chemotherapy,38.0,Hypertension,2023-08-07
+PT00684,54,M,glioma,III,Cerebrum,Active,Chemotherapy,45.0,Diabetes,2023-01-24
+PT00685,48,M,glioma,II,Cerebrum,In Remission,Chemotherapy,34.0,None,2023-10-07
+PT00686,51,M,glioma,III,Cerebrum,In Remission,Chemotherapy,57.0,Hypertension,2023-10-21
+PT00687,65,M,glioma,I,Cerebrum,In Remission,Chemotherapy,27.0,None,2023-06-04
+PT00688,67,F,glioma,II,Cerebellum,Active,Combined,102.0,Diabetes,2023-04-15
+PT00689,36,M,glioma,II,Cerebrum,Deceased,Combined,6.0,None,2023-05-20
+PT00690,41,F,glioma,III,Cerebrum,Active,Combined,79.0,Multiple,2023-10-07
+PT00691,77,M,glioma,III,Brainstem,In Remission,Chemotherapy,21.0,None,2023-12-24
+PT00692,42,F,glioma,IV,Cerebrum,Deceased,Combined,3.0,None,2023-05-04
+PT00693,65,M,glioma,III,Cerebrum,Active,Combined,55.0,Diabetes,2023-02-10
+PT00694,90,F,glioma,I,Cerebrum,Deceased,Combined,111.0,None,2023-03-10
+PT00695,67,M,glioma,III,Cerebrum,Active,Combined,111.0,Hypertension,2023-04-18
+PT00696,54,M,glioma,IV,Cerebrum,In Remission,Combined,51.0,None,2023-10-09
+PT00697,76,F,glioma,III,Cerebellum,In Remission,Combined,38.0,Hypertension,2023-09-14
+PT00698,63,M,glioma,IV,Cerebrum,Active,Surgery,23.0,None,2023-05-18
+PT00699,59,F,glioma,II,Cerebellum,Deceased,Combined,82.0,Multiple,2023-08-25
+PT00700,49,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,27.0,None,2023-04-21
+PT00701,76,M,glioma,IV,Cerebrum,In Remission,Radiation,82.0,None,2023-12-17
+PT00702,86,F,glioma,IV,Cerebrum,Active,Chemotherapy,106.0,None,2023-11-01
+PT00703,34,M,glioma,IV,Cerebellum,Deceased,Combined,31.0,None,2023-09-22
+PT00704,58,F,glioma,IV,Cerebrum,In Remission,Radiation,55.0,None,2023-11-07
+PT00705,54,M,glioma,IV,Brainstem,In Remission,Combined,69.0,None,2023-01-17
+PT00706,59,M,glioma,IV,Cerebrum,In Remission,Chemotherapy,71.0,None,2023-11-12
+PT00707,74,F,glioma,IV,Cerebrum,In Remission,Combined,24.0,Hypertension,2023-09-22
+PT00708,74,M,glioma,III,Cerebellum,Active,Surgery,74.0,Multiple,2023-03-26
+PT00709,35,F,glioma,III,Cerebellum,Deceased,Radiation,57.0,None,2023-10-10
+PT00710,37,F,glioma,I,Cerebrum,In Remission,Chemotherapy,113.0,Hypertension,2023-12-01
+PT00711,55,M,glioma,IV,Cerebrum,Deceased,Combined,14.0,Hypertension,2023-12-11
+PT00712,62,F,glioma,III,Cerebellum,Deceased,Combined,56.0,None,2023-06-04
+PT00713,80,M,glioma,III,Brainstem,Active,Surgery,30.0,Hypertension,2023-09-26
+PT00714,44,F,glioma,III,Cerebrum,Active,Surgery,94.0,Multiple,2023-04-13
+PT00715,22,F,glioma,III,Cerebrum,Active,Combined,108.0,Hypertension,2023-01-18
+PT00716,30,M,glioma,II,Cerebrum,In Remission,Surgery,102.0,None,2023-01-12
+PT00717,34,F,glioma,II,Cerebrum,In Remission,Radiation,84.0,None,2023-08-24
+PT00718,48,F,glioma,III,Cerebrum,In Remission,Combined,29.0,None,2023-03-15
+PT00719,49,F,glioma,III,Cerebrum,In Remission,Radiation,41.0,None,2023-11-02
+PT00720,71,F,glioma,IV,Cerebellum,Active,Combined,3.0,None,2023-10-23
+PT00721,37,F,glioma,IV,Cerebrum,In Remission,Combined,41.0,Hypertension,2023-01-10
+PT00722,25,F,glioma,IV,Cerebrum,Deceased,Surgery,31.0,None,2023-05-15
+PT00723,49,M,glioma,I,Cerebrum,In Remission,Combined,69.0,None,2023-11-26
+PT00724,56,M,glioma,II,Cerebrum,In Remission,Surgery,77.0,Diabetes,2023-06-10
+PT00725,63,M,glioma,IV,Cerebrum,In Remission,Surgery,60.0,Hypertension,2023-06-05
+PT00726,79,F,glioma,IV,Cerebrum,Active,Combined,17.0,Hypertension,2023-11-15
+PT00727,62,M,glioma,III,Cerebrum,Deceased,Combined,69.0,None,2023-07-26
+PT00728,43,M,glioma,III,Cerebrum,Active,Radiation,79.0,Multiple,2023-09-28
+PT00729,45,F,glioma,IV,Cerebellum,Deceased,Radiation,46.0,None,2023-11-16
+PT00730,49,F,glioma,II,Cerebrum,Active,Surgery,28.0,Diabetes,2023-09-04
+PT00731,60,M,glioma,II,Cerebrum,Active,Surgery,59.0,None,2023-08-27
+PT00732,57,F,glioma,III,Cerebrum,In Remission,Surgery,109.0,None,2023-10-08
+PT00733,64,M,glioma,III,Cerebrum,Active,Combined,84.0,Hypertension,2023-07-13
+PT00734,56,M,glioma,IV,Cerebrum,Active,Chemotherapy,77.0,Diabetes,2023-07-21
+PT00735,57,F,glioma,III,Cerebrum,In Remission,Combined,67.0,Diabetes,2023-02-12
+PT00736,55,F,glioma,III,Cerebrum,Deceased,Combined,51.0,Multiple,2023-03-02
+PT00737,45,F,glioma,III,Cerebrum,Active,Combined,37.0,None,2023-08-12
+PT00738,85,F,meningioma,I,Dura,Active,Chemotherapy,8.0,None,2023-07-11
+PT00739,71,F,meningioma,I,Dura,In Remission,Surgery,102.0,Hypertension,2023-02-24
+PT00740,85,F,meningioma,I,Dura,In Remission,Radiation,17.0,None,2023-05-13
+PT00741,39,F,meningioma,I,Dura,In Remission,Combined,103.0,Hypertension,2023-09-02
+PT00742,54,M,meningioma,I,Dura,Active,Combined,47.0,None,2023-02-08
+PT00743,63,M,meningioma,I,Falx,In Remission,Surgery,46.0,Diabetes,2023-04-25
+PT00744,43,M,meningioma,II,Dura,Deceased,Radiation,21.0,Diabetes,2023-09-16
+PT00745,43,M,meningioma,I,Dura,In Remission,Chemotherapy,100.0,Hypertension,2023-06-21
+PT00746,46,F,meningioma,I,Dura,Active,Surgery,32.0,Hypertension,2023-02-28
+PT00747,34,F,meningioma,I,Dura,Active,Chemotherapy,54.0,Hypertension,2023-05-20
+PT00748,83,F,meningioma,II,Falx,Active,Combined,63.0,None,2023-08-03
+PT00749,55,M,meningioma,I,Falx,In Remission,Combined,85.0,Multiple,2023-09-20
+PT00750,67,F,meningioma,I,Tentorium,In Remission,Combined,96.0,Multiple,2023-10-19
+PT00751,52,M,meningioma,I,Tentorium,In Remission,Combined,81.0,None,2023-03-18
+PT00752,45,M,meningioma,I,Dura,In Remission,Surgery,73.0,Diabetes,2023-08-09
+PT00753,81,F,meningioma,II,Dura,Deceased,Chemotherapy,85.0,Diabetes,2023-06-08
+PT00754,48,F,meningioma,I,Dura,In Remission,Radiation,56.0,Diabetes,2023-11-10
+PT00755,50,F,meningioma,II,Dura,In Remission,Radiation,35.0,None,2023-03-02
+PT00756,66,M,meningioma,I,Dura,In Remission,Surgery,65.0,Hypertension,2023-11-08
+PT00757,53,F,meningioma,II,Tentorium,In Remission,Surgery,79.0,Hypertension,2023-03-22
+PT00758,71,M,meningioma,II,Tentorium,Active,Surgery,89.0,None,2023-11-10
+PT00759,38,F,meningioma,I,Dura,In Remission,Combined,107.0,Multiple,2023-03-20
+PT00760,63,F,meningioma,I,Tentorium,Active,Chemotherapy,118.0,None,2023-02-22
+PT00761,61,F,meningioma,I,Dura,Deceased,Chemotherapy,90.0,Multiple,2023-04-17
+PT00762,62,M,meningioma,I,Dura,In Remission,Surgery,93.0,None,2023-07-25
+PT00763,57,F,meningioma,I,Dura,In Remission,Combined,46.0,Diabetes,2023-02-26
+PT00764,58,F,meningioma,I,Dura,Active,Combined,41.0,None,2023-06-17
+PT00765,59,F,meningioma,I,Dura,Active,Chemotherapy,59.0,None,2023-11-04
+PT00766,60,F,meningioma,I,Falx,In Remission,Combined,108.0,Hypertension,2023-01-01
+PT00767,43,M,meningioma,I,Falx,In Remission,Surgery,66.0,None,2023-06-16
+PT00768,77,M,meningioma,I,Dura,In Remission,Surgery,65.0,None,2023-05-11
+PT00769,61,F,meningioma,II,Dura,In Remission,Radiation,78.0,Diabetes,2023-02-10
+PT00770,85,F,meningioma,I,Falx,Deceased,Chemotherapy,116.0,None,2023-05-26
+PT00771,37,F,meningioma,I,Falx,Active,Chemotherapy,115.0,None,2023-07-19
+PT00772,51,F,meningioma,I,Dura,In Remission,Chemotherapy,86.0,Multiple,2023-03-09
+PT00773,79,M,meningioma,I,Tentorium,In Remission,Combined,90.0,Diabetes,2023-06-03
+PT00774,62,F,meningioma,I,Dura,Deceased,Surgery,54.0,Diabetes,2023-06-05
+PT00775,58,F,meningioma,I,Dura,In Remission,Surgery,103.0,Diabetes,2023-10-11
+PT00776,39,M,meningioma,II,Tentorium,In Remission,Radiation,45.0,None,2023-04-14
+PT00777,40,F,meningioma,I,Dura,In Remission,Combined,43.0,None,2023-01-22
+PT00778,62,M,meningioma,I,Falx,Active,Surgery,25.0,None,2023-07-15
+PT00779,57,M,meningioma,I,Dura,Deceased,Surgery,57.0,Diabetes,2023-07-06
+PT00780,66,M,meningioma,I,Dura,In Remission,Surgery,45.0,None,2023-09-23
+PT00781,71,F,meningioma,II,Falx,In Remission,Combined,17.0,None,2023-07-26
+PT00782,68,F,meningioma,II,Dura,Active,Surgery,65.0,Hypertension,2023-03-12
+PT00783,85,M,meningioma,II,Dura,In Remission,Combined,13.0,None,2023-02-07
+PT00784,73,F,meningioma,I,Dura,Active,Radiation,77.0,None,2023-05-16
+PT00785,50,M,meningioma,I,Dura,Active,Combined,4.0,None,2023-12-24
+PT00786,37,M,meningioma,II,Dura,Deceased,Surgery,77.0,None,2023-02-23
+PT00787,53,F,meningioma,I,Dura,In Remission,Surgery,25.0,Diabetes,2023-04-18
+PT00788,56,F,meningioma,I,Dura,Active,Chemotherapy,29.0,None,2023-05-23
+PT00789,64,F,meningioma,I,Tentorium,In Remission,Radiation,77.0,Multiple,2023-03-17
+PT00790,62,M,meningioma,I,Dura,In Remission,Combined,37.0,None,2023-04-04
+PT00791,62,F,meningioma,II,Falx,In Remission,Surgery,21.0,None,2023-10-08
+PT00792,69,F,meningioma,I,Dura,Active,Combined,45.0,None,2023-07-01
+PT00793,58,M,meningioma,III,Falx,Deceased,Chemotherapy,32.0,None,2023-10-12
+PT00794,85,F,meningioma,I,Dura,In Remission,Radiation,59.0,None,2023-02-10
+PT00795,75,F,meningioma,I,Falx,In Remission,Combined,77.0,Diabetes,2023-03-02
+PT00796,67,F,meningioma,I,Dura,Active,Surgery,54.0,Diabetes,2023-05-19
+PT00797,63,F,meningioma,I,Falx,Active,Chemotherapy,71.0,None,2023-03-26
+PT00798,38,F,meningioma,I,Dura,Active,Chemotherapy,28.0,None,2023-05-25
+PT00799,77,F,meningioma,I,Tentorium,In Remission,Combined,119.0,None,2023-02-09
+PT00800,62,F,meningioma,I,Falx,Deceased,Radiation,105.0,Hypertension,2023-02-10
+PT00801,69,F,meningioma,I,Dura,In Remission,Surgery,62.0,None,2023-09-12
+PT00802,64,F,meningioma,I,Dura,In Remission,Surgery,95.0,None,2023-04-10
+PT00803,85,F,meningioma,I,Dura,In Remission,Combined,99.0,None,2023-09-01
+PT00804,47,F,meningioma,II,Falx,In Remission,Combined,73.0,None,2023-01-19
+PT00805,58,M,meningioma,III,Dura,In Remission,Surgery,99.0,None,2023-02-24
+PT00806,85,F,meningioma,I,Falx,Active,Chemotherapy,54.0,None,2023-10-26
+PT00807,83,F,meningioma,I,Dura,In Remission,Radiation,44.0,Diabetes,2023-02-15
+PT00808,57,F,meningioma,I,Dura,In Remission,Radiation,99.0,Hypertension,2023-12-21
+PT00809,63,F,meningioma,III,Falx,In Remission,Combined,79.0,Diabetes,2023-02-05
+PT00810,54,M,meningioma,I,Dura,Active,Surgery,36.0,None,2023-08-18
+PT00811,63,F,meningioma,I,Dura,Deceased,Radiation,78.0,Multiple,2023-12-28
+PT00812,72,F,meningioma,II,Dura,Active,Chemotherapy,92.0,Hypertension,2023-07-08
+PT00813,72,M,meningioma,I,Dura,In Remission,Chemotherapy,61.0,Diabetes,2023-08-07
+PT00814,70,F,meningioma,I,Dura,Active,Combined,67.0,None,2023-12-26
+PT00815,34,F,meningioma,II,Dura,Deceased,Chemotherapy,70.0,Diabetes,2023-05-10
+PT00816,54,M,meningioma,I,Falx,Deceased,Surgery,14.0,None,2023-04-22
+PT00817,45,F,meningioma,I,Dura,In Remission,Combined,86.0,Multiple,2023-04-21
+PT00818,64,M,meningioma,I,Falx,Deceased,Surgery,17.0,Hypertension,2023-05-19
+PT00819,48,F,meningioma,II,Dura,In Remission,Chemotherapy,109.0,Diabetes,2023-03-09
+PT00820,49,F,meningioma,I,Tentorium,Active,Chemotherapy,107.0,Hypertension,2023-09-13
+PT00821,47,F,meningioma,I,Dura,In Remission,Combined,28.0,None,2023-11-24
+PT00822,44,F,meningioma,II,Dura,In Remission,Combined,33.0,None,2023-11-09
+PT00823,35,F,meningioma,I,Falx,In Remission,Combined,59.0,None,2023-02-23
+PT00824,68,F,meningioma,I,Dura,In Remission,Combined,79.0,Multiple,2023-12-04
+PT00825,72,F,meningioma,III,Dura,Active,Surgery,70.0,Diabetes,2023-10-23
+PT00826,77,M,meningioma,I,Falx,In Remission,Chemotherapy,28.0,None,2023-03-13
+PT00827,55,M,meningioma,I,Dura,Active,Surgery,70.0,None,2023-02-05
+PT00828,56,M,meningioma,I,Dura,Active,Radiation,12.0,Hypertension,2023-12-19
+PT00829,42,F,meningioma,I,Falx,Active,Surgery,60.0,None,2023-04-08
+PT00830,60,F,meningioma,I,Falx,Active,Combined,99.0,Hypertension,2023-11-17
+PT00831,74,F,meningioma,I,Tentorium,Active,Combined,118.0,None,2023-06-25
+PT00832,60,F,meningioma,I,Dura,Active,Chemotherapy,99.0,Multiple,2023-03-10
+PT00833,47,M,meningioma,I,Dura,Active,Chemotherapy,111.0,Diabetes,2023-08-23
+PT00834,62,F,meningioma,I,Dura,In Remission,Combined,77.0,Multiple,2023-08-07
+PT00835,85,F,meningioma,I,Dura,In Remission,Combined,30.0,Hypertension,2023-07-18
+PT00836,79,M,meningioma,I,Dura,In Remission,Surgery,113.0,None,2023-12-04
+PT00837,38,F,meningioma,I,Dura,Deceased,Combined,19.0,Diabetes,2023-11-03
+PT00838,68,M,meningioma,II,Dura,Active,Surgery,62.0,Diabetes,2023-06-27
+PT00839,77,M,meningioma,I,Dura,Active,Surgery,64.0,None,2023-06-18
+PT00840,51,F,meningioma,I,Falx,In Remission,Combined,93.0,Diabetes,2023-06-02
+PT00841,47,F,meningioma,I,Falx,Active,Combined,37.0,Hypertension,2023-12-04
+PT00842,56,F,meningioma,I,Falx,Active,Surgery,33.0,None,2023-04-06
+PT00843,66,M,meningioma,II,Falx,Active,Combined,105.0,None,2023-10-15
+PT00844,50,F,meningioma,III,Dura,In Remission,Combined,114.0,Hypertension,2023-06-18
+PT00845,84,M,meningioma,II,Dura,Deceased,Radiation,69.0,Multiple,2023-06-10
+PT00846,69,M,meningioma,I,Dura,Active,Chemotherapy,68.0,None,2023-07-24
+PT00847,48,F,meningioma,I,Dura,In Remission,Chemotherapy,15.0,Diabetes,2023-03-03
+PT00848,49,F,meningioma,I,Falx,In Remission,Chemotherapy,100.0,Diabetes,2023-04-14
+PT00849,53,F,meningioma,I,Dura,In Remission,Surgery,63.0,None,2023-12-11
+PT00850,76,F,meningioma,I,Dura,Deceased,Combined,14.0,Hypertension,2023-04-07
+PT00851,77,F,meningioma,I,Falx,In Remission,Chemotherapy,14.0,None,2023-10-11
+PT00852,85,F,meningioma,I,Dura,In Remission,Chemotherapy,42.0,None,2023-07-13
+PT00853,44,F,meningioma,I,Dura,In Remission,Surgery,28.0,None,2023-06-23
+PT00854,51,M,meningioma,I,Falx,In Remission,Surgery,104.0,None,2023-01-20
+PT00855,72,M,meningioma,II,Dura,Deceased,Radiation,66.0,Hypertension,2023-10-27
+PT00856,50,F,meningioma,I,Dura,Active,Surgery,30.0,Hypertension,2023-09-16
+PT00857,64,F,meningioma,II,Dura,Active,Surgery,29.0,None,2023-07-10
+PT00858,47,F,meningioma,I,Dura,Deceased,Combined,98.0,Hypertension,2023-03-09
+PT00859,56,F,meningioma,I,Dura,In Remission,Combined,86.0,Hypertension,2023-05-07
+PT00860,40,F,meningioma,III,Dura,Deceased,Combined,67.0,Hypertension,2023-03-28
+PT00861,51,M,meningioma,II,Falx,In Remission,Surgery,13.0,None,2023-06-10
+PT00862,58,M,meningioma,I,Tentorium,In Remission,Combined,14.0,None,2023-10-21
+PT00863,80,M,meningioma,I,Dura,In Remission,Surgery,48.0,None,2023-08-16
+PT00864,75,F,meningioma,I,Dura,Deceased,Surgery,104.0,Diabetes,2023-11-08
+PT00865,64,M,meningioma,I,Tentorium,Deceased,Combined,22.0,Hypertension,2023-02-25
+PT00866,34,F,meningioma,I,Dura,In Remission,Combined,47.0,None,2023-06-05
+PT00867,61,F,meningioma,I,Dura,In Remission,Combined,108.0,Hypertension,2023-09-27
+PT00868,49,M,meningioma,I,Falx,In Remission,Radiation,98.0,Hypertension,2023-10-07
+PT00869,42,F,meningioma,I,Falx,In Remission,Surgery,53.0,None,2023-06-03
+PT00870,75,F,meningioma,I,Falx,Active,Combined,4.0,None,2023-05-20
+PT00871,52,F,meningioma,I,Tentorium,Active,Radiation,113.0,Diabetes,2023-07-11
+PT00872,72,M,meningioma,I,Dura,In Remission,Surgery,85.0,Diabetes,2023-12-04
+PT00873,40,M,meningioma,I,Dura,In Remission,Chemotherapy,54.0,Multiple,2023-10-11
+PT00874,70,M,meningioma,I,Dura,In Remission,Chemotherapy,14.0,None,2023-01-26
+PT00875,67,M,meningioma,I,Dura,Active,Radiation,62.0,None,2023-06-04
+PT00876,39,M,meningioma,I,Dura,In Remission,Surgery,33.0,None,2023-04-05
+PT00877,81,F,meningioma,I,Dura,In Remission,Chemotherapy,65.0,None,2023-01-16
+PT00878,39,F,meningioma,I,Dura,In Remission,Surgery,59.0,Hypertension,2023-11-01
+PT00879,71,M,meningioma,I,Tentorium,In Remission,Combined,18.0,None,2023-12-03
+PT00880,49,F,meningioma,I,Dura,Deceased,Combined,108.0,Hypertension,2023-01-04
+PT00881,57,F,meningioma,I,Falx,Active,Combined,31.0,Hypertension,2023-04-18
+PT00882,56,F,meningioma,I,Falx,Deceased,Combined,116.0,Hypertension,2023-06-13
+PT00883,73,M,meningioma,I,Falx,Active,Chemotherapy,99.0,Multiple,2023-05-08
+PT00884,62,F,meningioma,I,Dura,Deceased,Combined,34.0,Hypertension,2023-03-18
+PT00885,72,M,meningioma,I,Dura,Deceased,Combined,27.0,Hypertension,2023-07-12
+PT00886,50,M,meningioma,I,Dura,Active,Combined,33.0,Hypertension,2023-02-18
+PT00887,57,M,meningioma,I,Tentorium,In Remission,Combined,41.0,None,2023-06-22
+PT00888,19,F,tumor,IV,Cerebrum,Deceased,Chemotherapy,45.0,None,2023-01-10
+PT00889,62,M,tumor,IV,Cerebrum,In Remission,Surgery,55.0,Diabetes,2023-11-18
+PT00890,66,M,tumor,II,Cerebrum,Deceased,Combined,117.0,Diabetes,2023-09-19
+PT00891,76,M,tumor,I,Cerebrum,In Remission,Radiation,61.0,None,2023-07-28
+PT00892,43,F,tumor,III,Cerebellum,Active,Combined,28.0,None,2023-08-05
+PT00893,39,F,tumor,III,Cerebellum,Active,Radiation,99.0,None,2023-02-21
+PT00894,50,F,tumor,III,Brainstem,In Remission,Radiation,49.0,None,2023-06-14
+PT00895,78,F,tumor,I,Cerebrum,Active,Combined,8.0,None,2023-12-03
+PT00896,63,F,tumor,IV,Cerebrum,Active,Combined,87.0,None,2023-05-23
+PT00897,42,M,tumor,IV,Cerebellum,In Remission,Radiation,117.0,Multiple,2023-06-23
+PT00898,43,M,tumor,III,Cerebrum,Deceased,Surgery,7.0,Multiple,2023-09-04
+PT00899,63,F,tumor,IV,Cerebrum,In Remission,Surgery,59.0,None,2023-06-04
+PT00900,70,F,tumor,IV,Cerebellum,In Remission,Surgery,106.0,None,2023-11-16
+PT00901,30,M,tumor,IV,Cerebellum,Active,Surgery,80.0,Hypertension,2023-01-21
+PT00902,30,F,tumor,III,Cerebrum,In Remission,Combined,32.0,Diabetes,2023-11-06
+PT00903,42,M,tumor,IV,Cerebellum,In Remission,Surgery,114.0,Diabetes,2023-08-14
+PT00904,52,F,tumor,IV,Cerebrum,Deceased,Surgery,115.0,None,2023-01-07
+PT00905,64,F,tumor,IV,Cerebrum,In Remission,Radiation,72.0,None,2023-02-25
+PT00906,53,M,tumor,IV,Cerebrum,Active,Combined,53.0,Diabetes,2023-03-12
+PT00907,39,F,tumor,IV,Cerebrum,Active,Surgery,56.0,Diabetes,2023-05-20
+PT00908,55,M,tumor,III,Cerebellum,Active,Radiation,18.0,None,2023-12-13
+PT00909,61,M,tumor,IV,Cerebrum,In Remission,Chemotherapy,26.0,None,2023-05-22
+PT00910,45,M,tumor,IV,Cerebellum,In Remission,Chemotherapy,80.0,None,2023-03-26
+PT00911,69,M,tumor,III,Cerebellum,Deceased,Radiation,83.0,None,2023-04-19
+PT00912,65,F,tumor,III,Cerebellum,In Remission,Surgery,115.0,None,2023-01-22
+PT00913,26,F,tumor,III,Cerebrum,Active,Surgery,87.0,None,2023-10-17
+PT00914,59,M,tumor,III,Cerebrum,In Remission,Chemotherapy,32.0,Multiple,2023-04-16
+PT00915,37,M,tumor,IV,Cerebrum,In Remission,Surgery,14.0,None,2023-07-01
+PT00916,38,F,tumor,IV,Brainstem,In Remission,Radiation,25.0,Hypertension,2023-07-14
+PT00917,47,M,tumor,II,Cerebrum,In Remission,Surgery,69.0,None,2023-06-27
+PT00918,73,M,tumor,IV,Cerebrum,Active,Combined,101.0,Multiple,2023-04-22
+PT00919,45,M,tumor,I,Brainstem,Deceased,Combined,102.0,Hypertension,2023-03-12
+PT00920,54,F,tumor,IV,Cerebrum,Deceased,Surgery,110.0,None,2023-04-04
+PT00921,40,F,tumor,III,Cerebrum,Deceased,Combined,13.0,Diabetes,2023-07-18
+PT00922,57,M,tumor,III,Brainstem,Active,Combined,69.0,None,2023-08-28
+PT00923,34,F,tumor,IV,Cerebellum,In Remission,Combined,107.0,None,2023-05-04
+PT00924,62,M,tumor,III,Cerebrum,In Remission,Combined,29.0,None,2023-03-17
+PT00925,85,F,tumor,II,Cerebrum,In Remission,Radiation,92.0,None,2023-12-14
+PT00926,75,M,tumor,IV,Cerebellum,Active,Surgery,84.0,None,2023-08-24
+PT00927,52,M,tumor,IV,Brainstem,In Remission,Chemotherapy,103.0,None,2023-10-22
+PT00928,68,M,tumor,III,Cerebrum,In Remission,Combined,41.0,Hypertension,2023-10-25
+PT00929,41,M,tumor,IV,Cerebrum,Active,Surgery,104.0,Multiple,2023-02-12
+PT00930,72,M,tumor,III,Brainstem,In Remission,Surgery,117.0,Multiple,2023-03-16
+PT00931,34,M,tumor,IV,Cerebrum,Active,Combined,11.0,Diabetes,2023-02-09
+PT00932,20,M,tumor,IV,Cerebellum,Active,Radiation,81.0,None,2023-08-10
+PT00933,70,F,tumor,IV,Cerebellum,Active,Surgery,32.0,Hypertension,2023-05-09
+PT00934,18,M,tumor,IV,Cerebrum,Deceased,Chemotherapy,110.0,Hypertension,2023-02-09
+PT00935,42,F,tumor,IV,Cerebellum,In Remission,Combined,17.0,None,2023-08-13
+PT00936,85,F,tumor,IV,Cerebellum,Active,Radiation,71.0,None,2023-08-25
+PT00937,47,F,tumor,IV,Cerebellum,Deceased,Combined,69.0,None,2023-07-14
+PT00938,43,F,tumor,III,Cerebellum,In Remission,Radiation,60.0,None,2023-08-22
+PT00939,46,M,tumor,III,Cerebellum,Deceased,Radiation,82.0,None,2023-01-28
+PT00940,52,M,tumor,III,Cerebrum,Active,Combined,117.0,Hypertension,2023-01-20
+PT00941,40,M,tumor,IV,Cerebrum,In Remission,Surgery,60.0,Multiple,2023-06-04
+PT00942,48,M,tumor,II,Cerebellum,Active,Surgery,6.0,Multiple,2023-12-24
+PT00943,57,F,tumor,IV,Cerebellum,Deceased,Chemotherapy,58.0,Hypertension,2023-11-07
+PT00944,39,F,tumor,I,Cerebrum,Deceased,Combined,106.0,Multiple,2023-02-13
+PT00945,34,F,tumor,IV,Cerebrum,In Remission,Chemotherapy,71.0,None,2023-08-15
+PT00946,40,M,tumor,IV,Cerebrum,Active,Combined,16.0,None,2023-07-21
+PT00947,62,M,tumor,II,Cerebrum,In Remission,Combined,58.0,None,2023-06-03
+PT00948,53,F,tumor,II,Cerebellum,In Remission,Combined,63.0,Diabetes,2023-01-10
+PT00949,85,F,tumor,III,Brainstem,In Remission,Radiation,104.0,Hypertension,2023-01-16
+PT00950,21,F,tumor,III,Cerebrum,In Remission,Combined,101.0,None,2023-12-12
+PT00951,47,M,tumor,IV,Cerebellum,In Remission,Combined,17.0,Multiple,2023-11-20
+PT00952,48,M,tumor,II,Cerebrum,Active,Combined,10.0,Diabetes,2023-10-20
+PT00953,55,F,tumor,III,Cerebellum,In Remission,Radiation,20.0,Multiple,2023-06-14
+PT00954,53,F,tumor,II,Cerebellum,Active,Surgery,36.0,Multiple,2023-08-01
+PT00955,53,F,tumor,IV,Cerebrum,In Remission,Combined,18.0,None,2023-03-27
+PT00956,39,M,tumor,III,Cerebrum,In Remission,Combined,21.0,None,2023-02-13
+PT00957,38,F,tumor,IV,Cerebellum,Deceased,Combined,107.0,Hypertension,2023-02-04
+PT00958,53,F,tumor,II,Cerebrum,Active,Radiation,84.0,None,2023-03-15
+PT00959,51,F,tumor,III,Cerebrum,In Remission,Combined,21.0,Hypertension,2023-07-01
+PT00960,28,M,tumor,III,Cerebellum,In Remission,Surgery,117.0,Diabetes,2023-07-01
+PT00961,53,M,tumor,III,Cerebrum,In Remission,Combined,99.0,Diabetes,2023-12-02
+PT00962,47,F,tumor,III,Cerebrum,Deceased,Combined,17.0,Hypertension,2023-02-07
+PT00963,43,F,tumor,IV,Brainstem,In Remission,Combined,82.0,None,2023-05-02
+PT00964,85,M,tumor,II,Cerebrum,Active,Combined,85.0,Hypertension,2023-11-07
+PT00965,66,F,tumor,III,Cerebrum,In Remission,Combined,108.0,Hypertension,2023-03-06
+PT00966,76,M,tumor,III,Cerebrum,In Remission,Radiation,63.0,None,2023-09-14
+PT00967,59,M,tumor,II,Cerebellum,In Remission,Combined,13.0,Hypertension,2023-05-04
+PT00968,22,M,tumor,IV,Cerebrum,In Remission,Chemotherapy,66.0,Hypertension,2023-01-14
+PT00969,59,F,tumor,IV,Cerebrum,In Remission,Combined,14.0,Diabetes,2023-01-02
+PT00970,33,F,tumor,I,Cerebellum,In Remission,Radiation,44.0,None,2023-11-25
+PT00971,20,M,tumor,IV,Cerebellum,Active,Surgery,30.0,Diabetes,2023-11-17
+PT00972,44,M,tumor,III,Brainstem,Active,Radiation,100.0,None,2023-11-28
+PT00973,64,M,tumor,IV,Cerebellum,Active,Surgery,8.0,Hypertension,2023-09-24
+PT00974,53,F,tumor,III,Cerebrum,In Remission,Radiation,81.0,None,2023-10-01

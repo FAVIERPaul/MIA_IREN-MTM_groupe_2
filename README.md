@@ -18,8 +18,10 @@ Ce projet utilise l'intelligence artificielle pour la détection de tumeurs cér
 - `generate_stats.py` : Script pour générer les statistiques
 - `create_dashboard.py` : Script pour créer le dashboard HTML
 - `create_pdf.py` : Script pour générer le PDF des images
+- `create_medical_dashboard.py` : Script pour créer le dashboard médical interactif
 - `dataset_statistics.csv` : CSV avec toutes les statistiques (comptes, proportions, dimensions)
 - `interactive_dashboard.html` : Dashboard HTML interactif
+- `medical_dashboard.html` : Dashboard médical bleu avec toutes les images par catégorie
 - `balanced_dataset_images.pdf` : PDF avec toutes les 974 images du dataset équilibré
 - `balance_dataset.py` : Script pour équilibrer le dataset
 - `.gitignore` : Exclut les dossiers de données volumineux
